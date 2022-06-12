@@ -39,4 +39,7 @@ function bin(arr, val){
 }
 
 let s = [1,2,14,15,66,77,89]
-console.log(bin(s,15))
+console.log(bin(s,16))
+
+
+console.log("blablabla");
